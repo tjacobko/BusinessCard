@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/56098325/212576836-44f0b384-8fc4-489d-8a1d-75a18ef88a47.png)
+
+* This is just an image. Follow the steps below to see the actual page.
+
+
 # co80a4041ae3df5f869e49f42
 
 Quick start:
